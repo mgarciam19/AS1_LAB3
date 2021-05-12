@@ -8,7 +8,7 @@ public class SpruseTree implements IChristmasTree {
     }
 
     public void place(String christmasTree) {
-        // TODO implement here
+        System.out.println("Colocando un Pinabete " + christmasTree);
     }
 
 }

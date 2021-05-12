@@ -17,23 +17,27 @@ public class ChristmasTreeFacade {
 
     public void placeSpruseTree() {
         // TODO implement here
-        
+	christmasTrees.place();
     }
 
     public void placeParsnipTree() {
         // TODO implement here
+	christmasTrees;.place()
     }
 
     public void placeWhitePineTree() {
         // TODO implement here
+	christmasTrees.place();
     }
 
     public void placeFraserFirTree() {
         // TODO implement here
+	christmasTrees.place();
     }
 
     public void placeScotchPineTree() {
         // TODO implement here
+	christmasTrees.place();
     }
 
 }

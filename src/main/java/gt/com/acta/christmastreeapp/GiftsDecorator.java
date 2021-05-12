@@ -8,7 +8,7 @@ public class GiftsDecorator extends ChristmasTreeDecorator {
     }
 
     public void addGifts(IChristmasTree christmasTree) {
-        // TODO implement here
+        System.out.println("Colocando regalos bajo: " + christmasTree);
     }
 
 }

@@ -9,6 +9,7 @@ public class ArtificialSnowDecorator extends ChristmasTreeDecorator {
 
     public void addArtificialSnow(IChristmasTree christmasTree) {
         // TODO implement here
+	System.out.println("Colocando nieve Artificial sobre: " + christmasTree);
     }
 
 }

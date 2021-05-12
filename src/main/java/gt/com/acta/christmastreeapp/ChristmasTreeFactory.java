@@ -8,7 +8,23 @@ public class ChristmasTreeFactory {
     }
 
     public IChristmasTree getChristmasTree(ChristmasTreeType christmasTreeType) {
-        // TODO implement here
+        switch(christmasTreeType){
+		case WhitePineTree:{
+			return new WhitePineTree();
+		}
+		case ScotchPineTree:{
+			return new ScotchPineTree();
+		}
+		case SpruseTree:{
+			return new SpruseTree();
+		}
+		case ParsnipTree:{
+			return new ParsnipTree:();
+		}
+		case FraserFirTree:{
+			return new FraserFirTree:();
+		}
+	}
         return null;
     }
 

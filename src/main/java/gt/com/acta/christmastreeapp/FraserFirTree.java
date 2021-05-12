@@ -8,7 +8,7 @@ public class FraserFirTree implements IChristmasTree {
     }
 
     public void place(String christmasTree) {
-        // TODO implement here
+        System.out.println("Colocando un Abies Fraseri: " + christmasTree);
     }
 
 }
